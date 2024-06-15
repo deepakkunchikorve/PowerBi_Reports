@@ -1,13 +1,23 @@
 # PowerBi_Reports
 
 * Project Objective :
-  To develop a comprehensive Credit Card Weekly Report that provides real-time insights into
-  key performance metrics and trends, enabling stakeholders to monitor and analyze Credit Card Operation Effectively
+  To contribute to the success of a business by utilizing data analysis techniques, specifically
+  focusing on time series analysis, to provide value insights and accurate sales forecasting.
 
-* Overview YTD :
-  1.Overall Revenue is 57M.
-  2.Total Interest is 8M.
-  3.Total Transaction Amount is 46M.
-  4.Male Customers are contributing moore in revenue i.e is 31M, Female are contributing 26M.
-  5.Blue, silver credit card are contributing to 93% of overall transaction.
-  6.TX, NY & CA states are contributing to 68%.
+* Overview YOY :
+  1. Total Revenue = 7.2 M
+  2. Total Sales = 1.6 M
+  3. Total Profit = 175 K
+  4. Average Delivery of a Product is of 4 Days.
+  5. In Paymemt Mode COD contributes 43%
+  6. West Region contributes 33% of sales.
+  7. Consumer Segment contains highest percent of sales.
+  8. In Stacked Area Chart of Monthly Sales by Year Over Year, we can see October month has lowest sale,
+     whereas in Monthly Profit Sales Chart we observe that October month has Highest Profit, were we conclude
+     this in that month they had sold orders in highest number of quantity or their will be some offer or discount.
+  9. In Stacked Area Chart of Monthly Profit we observe that in 2019 of March the Profit was Low, whereas in 2020
+      of March the Profit has taken growth by *4 times of that of 2019.
+  10. Standard Class is the Highest Shiping Mode preffered by Customers.
+  11. In Sales Forecast of 15 Days, were we can predic how will be the sale for next 15 Days with 95% of accuracy.
+  12. In USA Map the California State individually contributing to highest number of sale. 
+ 
