@@ -5,7 +5,7 @@
 * Combining data from two or more tables using JOINS. 
 * Creating reports with Group BY.
 
--- The Data Set used is this practise Question is Superstore Named 'Awesome Chocolates' --
+-- The Data Set used in this practise is Superstore Named 'Awesome Chocolates' --
     where in that dataset their are 4 Tables with thier respected Columns.
      TABLES            COLUMNS
     1.GEO      - GeoID, Geo, Region
