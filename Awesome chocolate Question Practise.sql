@@ -1,3 +1,20 @@
+* Using SELECT statement to answer business question.
+* Working with WHERE clause.
+* Using AND, OR, NOT and combining them to create complex queries.
+* Sorting query results using ORDER BY.
+* Combining data from two or more tables using JOINS. 
+* Creating reports with Group BY.
+
+-- The Data Set used is this practise Question is Superstore Named 'Awesome Chocolates' --
+    where in that dataset their are 4 Tables with thier respected Columns.
+     TABLES            COLUMNS
+    1.GEO      - GeoID, Geo, Region
+    2.PEOPLE   - Salesperson, SPID, Team, Location
+    3.PRODUCTS - PID, Product, Category, Size, Cost_per_box
+    4.SALES    - SPID, GeoID, PID, Saledate, Amount, Customer, Boxes
+    
+-- Queries --
+    
 select * from sales;
 
 select SaleDate , Amount, customers from sales;
